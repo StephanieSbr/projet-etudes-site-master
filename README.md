@@ -1,0 +1,1 @@
+Site internet créé à l'occasion d'un cours de L3 MIASHS nommé "Gestion de projet" pour apprendre à exécuter de la meilleure manière chaque étape pour réussir un projet qui est ici un site internet reprenant les données de MonMaster complété par d'autres bases de données.
